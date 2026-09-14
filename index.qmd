@@ -1,0 +1,13 @@
+---
+title: "Question 1, 3, 4, 9"
+author: Group 8
+output: revealjs::revealjs_presentation
+---
+## Q. Where did you live before MDS, and what is one thing you miss about it?
+
+## Q. What made you apply to MDS?
+
+## Q. What is one thing you want to be able to do by the end of the program?
+
+## Q. What has surprised you most about your first few weeks here?
+
