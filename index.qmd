@@ -5,9 +5,17 @@ output: revealjs::revealjs_presentation
 ---
 ## Q. Where did you live before MDS, and what is one thing you miss about it?
 
+I lived in Chengdu, China. I miss the food there.
+
 ## Q. What made you apply to MDS?
+
+I hope to get a tech-related job in the future.
 
 ## Q. What is one thing you want to be able to do by the end of the program?
 
+Model fine-tuning and agent engineering.
+
 ## Q. What has surprised you most about your first few weeks here?
+
+Great landscape.
 
