@@ -3,7 +3,7 @@ title: "Question 1, 3, 4, 9"
 author: Group 8
 format:
     revealjs:
-    embed-resources: true
+        embed-resources: true
 ---
 
 # questions
@@ -51,4 +51,3 @@ Great landscape.
 ## Sicong Deng (sicong02)
 
 ![](images/Sicong_Deng-sicong02.png){width=500px}
-
