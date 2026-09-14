@@ -40,6 +40,8 @@ Sicong Deng: I lived in Chengdu, China. I miss the food there.
 =======
 Great landscape.
 
+## Xuan Jiang (xuanj)
+![](images/Xuan_Jiang(xuanj).jpg){width=500px}
 ## Edmund Yong (yongez)
 ![](images/yongez.png){width=500px}
 >>>>>>> 6a482ecc7cddb2f5f32b5e0371f4e83e24c274fd
