@@ -38,13 +38,11 @@ Sicong Deng: I lived in Chengdu, China. I miss the food there.
 
 - **Edmund**: The program is very fast paced.
 
-<<<<<<< HEAD
 + Sicong Deng: Great landscape.
-=======
-Great landscape.
 
 ## Xuan Jiang (xuanj)
 ![](images/Xuan_Jiang(xuanj).jpg){width=500px}
+
 ## Edmund Yong (yongez)
 ![](images/yongez.png){width=500px}
 
