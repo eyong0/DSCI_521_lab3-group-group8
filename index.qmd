@@ -36,4 +36,6 @@ Model fine-tuning and agent engineering.
 Great landscape.
 
 ## Xuan Jiang (xuanj)
-image: images/Xuan_Jiang(xuanj).jpg
+![](images/Xuan_Jiang(xuanj).jpg){width=500px}
+## Edmund Yong (yongez)
+![](images/yongez.png){width=500px}
