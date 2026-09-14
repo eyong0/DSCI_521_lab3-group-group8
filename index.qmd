@@ -34,3 +34,6 @@ Model fine-tuning and agent engineering.
 - **Edmund**: The program is very fast paced.
 
 Great landscape.
+
+## Edmund Yong (yongez)
+![](images/yongez.png){width=500px}
