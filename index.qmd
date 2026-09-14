@@ -34,3 +34,6 @@ Model fine-tuning and agent engineering.
 - **Edmund**: The program is very fast paced.
 
 Great landscape.
+
+## Xuan Jiang (xuanj)
+image: images/Xuan_Jiang(xuanj).jpg
