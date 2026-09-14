@@ -5,9 +5,16 @@ output: revealjs::revealjs_presentation
 ---
 ## Q. Where did you live before MDS, and what is one thing you miss about it?
 
+    Xuan: I have being living in Richmond before MDS. I miss the bubble teas there.
+
 ## Q. What made you apply to MDS?
+
+    Xuan: I applied to MDS because I would like to take a break from my career and explore more trending topics.
 
 ## Q. What is one thing you want to be able to do by the end of the program?
 
+    Xuan: I wish I could be able to code in Python.
+
 ## Q. What has surprised you most about your first few weeks here?
 
+    Xuan: Workload was insane.
