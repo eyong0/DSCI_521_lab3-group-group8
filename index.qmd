@@ -48,4 +48,4 @@ Sicong Deng: I lived in Chengdu, China. I miss the food there.
 
 ## Sicong Deng (sicong02)
 
-![](images/Sicong_Deng-sicong02.png){width=500px}
+![](images/sicongdeng.png){width=500px}
